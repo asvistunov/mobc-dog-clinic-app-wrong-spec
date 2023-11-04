@@ -1,1 +1,2 @@
-# mobc-dog-clinic-app
+# mobc-dog-clinic-app-wrong-spec
+Dog clinic app wrong spec
